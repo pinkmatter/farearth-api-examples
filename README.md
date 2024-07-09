@@ -16,7 +16,7 @@ cd farearth-api-examples/catalogue
 
 python -m venv pystac
 
-cd pystac_examples
+cd pystac
 
 ./Scripts/activate
 
