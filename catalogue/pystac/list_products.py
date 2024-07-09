@@ -77,10 +77,10 @@ if __name__ == "__main__":
         }
     }
 
-    correlation = catalog.search(
+    dataset_search = catalog.search(
         max_items=30,
         limit=3,
         query=ds_query_json
     )
 
-    print(f"{correlation.matched()} items found")
+    print(f"{dataset_search.matched()} items found")
