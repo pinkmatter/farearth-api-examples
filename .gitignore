@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+
+### Python ###
+catalogue/pystac/__pycache__
+catalogue/pystac/Include
+catalogue/pystac/Lib
+catalogue/pystac/Scripts
+catalogue/pystac/pyvenv.cfg
